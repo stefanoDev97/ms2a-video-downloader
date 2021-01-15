@@ -1,0 +1,17 @@
+{
+  "name": "ms2a-video-downloader",
+  "version": "1.0.0",
+  "description": "easy way to download videos from youtube and facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video",
+    "download",
+    "facebook",
+    "youtube"
+  ],
+  "author": "mustapha ait boukhliq",
+  "license": "ISC"
+}
